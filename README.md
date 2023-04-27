@@ -4,8 +4,8 @@ The final projects of the student teams for the 10th Workshop on Road Traffic Mo
 
 | Team     |                         |                      |                          |
 |----------|:-----------------------:|:--------------------:|:------------------------:|
-| Team 1   | [Slides][team1-slides]  | [Code][team1-code]   |  [Report][team1-report]. |
-| Team 2   | [Slides][team2-slides]  | [Code][team2-code]   |  [Report][team2-report]. |
+| Team 1   | [Slides][team1-slides]  | [Code][team1-code]   |  [Report][team1-report]  |
+| Team 2   | [Slides][team2-slides]  | [Code][team2-code]   |  [Report][team2-report]  |
 | Team 3   | [Slides][team3-slides]  | [Code][team3-code]   |  [Report][team3-report]  |
 | Team 4   | [Slides][team4-slides]  | [Code][team4-code]   |  [Report][team4-report]  |
 | Team 5   | [Slides][team5-slides]  | [Code][team5-code]   |  [Report][team5-report]  |
