@@ -2,7 +2,6 @@
 
 The final projects of the student teams for the 10th Workshop on Road Traffic Monitoring can be found in the table below.
 
-| Team     |                         |                      |                          |
 |----------|:-----------------------:|:--------------------:|:------------------------:|
 | Team 1   | [Slides][team1-slides]  | [Code][team1-code]   |  [Report][team1-report]  |
 | Team 2   | [Slides][team2-slides]  | [Code][team2-code]   |  [Report][team2-report]  |
@@ -10,6 +9,7 @@ The final projects of the student teams for the 10th Workshop on Road Traffic Mo
 | Team 4   | [Slides][team4-slides]  | [Code][team4-code]   |  [Report][team4-report]  |
 | Team 5   | [Slides][team5-slides]  | [Code][team5-code]   |  [Report][team5-report]  |
 | Team 6   | [Slides][team6-slides]  | [Code][team6-code]   |  [Report][team6-report]  |
+|----------|:-----------------------:|:--------------------:|:------------------------:|
 
 [team1-slides]: https://docs.google.com/presentation/d/1aG9oz3pBwZF4IP2PRvAQEiDEt2cDAEpn3adElMmn16w/edit?usp=sharing
 [team1-code]: https://github.com/mcv-m6-video/mcv-m6-2023-team1
